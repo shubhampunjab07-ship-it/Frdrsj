@@ -1,0 +1,6 @@
+requests
+fake-useragent
+pyTelegramBotAPI
+aiohttp
+seleniumbase
+asyncio
